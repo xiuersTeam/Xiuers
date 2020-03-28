@@ -21,4 +21,4 @@ load data infile "C:/JavaDevTools/workspace/TestCxfHibernate/transpackage.txt" i
 select * from userinfo into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/userinfo.txt";
 select * from customerinfo into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/customerinfo.txt";
 select * from transpackage into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/transpackage.txt";
-//刚才尝试提交了eclipse中的修改
+刚才尝试提交了eclipse中的修改
