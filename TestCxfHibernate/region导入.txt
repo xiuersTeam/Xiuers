@@ -21,3 +21,5 @@ load data infile "C:/JavaDevTools/workspace/TestCxfHibernate/transpackage.txt" i
 select * from userinfo into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/userinfo.txt";
 select * from customerinfo into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/customerinfo.txt";
 select * from transpackage into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/transpackage.txt";
+
+//我现在对导入到eclipse中的项目进行修改
