@@ -22,3 +22,5 @@ select * from userinfo into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/
 select * from customerinfo into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/customerinfo.txt";
 select * from transpackage into outfile "C:/JavaDevTools/workspace/TestCxfHibernate/transpackage.txt";
 刚才尝试提交了eclipse中的修改
+
+//做修改
