@@ -24,3 +24,5 @@ select * from transpackage into outfile "C:/JavaDevTools/workspace/TestCxfHibern
 刚才尝试提交了eclipse中的修改
 
 //做修改
+
+//bang
